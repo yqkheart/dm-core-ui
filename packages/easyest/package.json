@@ -1,6 +1,6 @@
 {
-  "name": "easyest",
-  "version": "1.0.7",
+  "name": "dm-ui",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "module": "es/index.mjs",
   "files": [
@@ -8,19 +8,19 @@
     "lib"
   ],
   "keywords": [
-    "easyest",
+    "dm-ui",
     "vue3组件库"
   ],
   "sideEffects": [
     "**/*.css"
   ],
-  "author": "小月",
+  "author": "小凯",
   "license": "MIT",
   "description": "",
   "typings": "lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qddidi/easyest"
+    "url": "https://github.com/yqkheart/dm-core-ui"
   },
   "dependencies": {
     "@easyest/utils": "^1.0.2"
